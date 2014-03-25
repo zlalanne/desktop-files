@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Fritzing
+GenericName=Fritzing
+Comment=Interactive electronics designing software
+Type=Application
+Exec=/opt/fritzing/Fritzing 
+Icon=/opt/fritzing/fritzing_icon.png
+Categories=Development
